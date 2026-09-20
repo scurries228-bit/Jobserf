@@ -5,7 +5,7 @@ import html
 import telebot
 from telebot import types
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "ВСТАВЬ_СЮДА_НОВЫЙ_ТОКЕН")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8246195131:AAFA-pju40tG8zbYrQ5YwH4-5UQ6rP56RsY")
 DATA_FILE = "jobserf_data.json"
 ADMIN_IDS = {7396218587}
 
